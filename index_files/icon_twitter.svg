@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_1" data-name=" レイヤー 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="X">
+    <circle class="cls-1" cx="75" cy="75" r="75"/>
+    <path class="cls-2" d="M82.21,69.07l28.23-32.82h-6.69l-24.51,28.49-19.58-28.49h-22.58l29.61,43.09-29.61,34.41h6.69l25.89-30.09,20.68,30.09h22.58l-30.7-44.68h0ZM73.05,79.71l-3-4.29-23.87-34.14h10.27l19.26,27.55,3,4.29,25.04,35.82h-10.27l-20.43-29.22h0Z"/>
+  </g>
+</svg>
